@@ -1,0 +1,15 @@
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\net6.0\HelloWorldTest.exe
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\net6.0\HelloWorldTest.deps.json
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\net6.0\HelloWorldTest.runtimeconfig.json
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\net6.0\HelloWorldTest.dll
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\net6.0\ref\HelloWorldTest.dll
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\bin\Debug\net6.0\HelloWorldTest.pdb
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\HelloWorldTest.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\HelloWorldTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\HelloWorldTest.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\HelloWorldTest.AssemblyInfo.cs
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\HelloWorldTest.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\HelloWorldTest.dll
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\ref\HelloWorldTest.dll
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\HelloWorldTest.pdb
+C:\Users\harsh\source\repos\HelloWorldTest\HelloWorldTest\obj\Debug\net6.0\HelloWorldTest.genruntimeconfig.cache
